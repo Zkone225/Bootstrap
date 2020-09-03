@@ -85,7 +85,7 @@
           
      // }
       //console.log(n);
-  }
+//   }
   //add(4, 5);
   //SEULMENT LE 1ER DONNEUN RESULTA
 
